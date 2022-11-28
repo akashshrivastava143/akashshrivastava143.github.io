@@ -101,14 +101,14 @@
 
     /*tablet version*/
     @media (min-width: 768px) and (max-width: 991px) {
-        .colmn-md-6 {
+        .column-md-6 {
             float: left;
             width: 50%;
             margin-left: auto;
             margin-right: auto;
         }
 
-        .colmn-md-12 {
+        .column-md-12 {
             float: left;
             width: 100%;
             margin-left: auto;
@@ -118,7 +118,7 @@
 
     /*mobile version*/
     @media (max-width: 767px) {
-        .colmn-sm-12 {
+        .column-sm-12 {
             float: left;
             width: 100%;
         }
